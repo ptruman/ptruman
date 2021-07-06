@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ptruman
+- 👀 I’m interested in creating useful (albeit niche!) solutions for things I find I can't do with an/other app/package easily.
+- 🌱 I’m currently learning Docker/GitHub
+- 💞️ I’m looking to collaborate on my diab project potentially :)
