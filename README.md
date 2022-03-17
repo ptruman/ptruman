@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Docker/GitHub
 - 💞️ I’m looking to collaborate on my diab project potentially :)
 
-Outside of GitHub I have a Google Sites blog with some articles which may (or likely may not!) be of interest than you can [https://www.gothtech.co.uk](find here).
+Outside of GitHub I have a Google Sites blog with some articles which may (or likely may not!) be of interest than you can [find here](https://www.gothtech.co.uk).
